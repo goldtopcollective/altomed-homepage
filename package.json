@@ -1,0 +1,11 @@
+{
+  "name": "altomed-homepage",
+  "version": "1.0.0",
+  "description": "Altomed homepage — static site",
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
